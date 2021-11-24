@@ -1,5 +1,4 @@
 # Java
-All Java Projects
 
 ABI-Rechner
 is a software to input your marks and then the software calculates your final high school graduation grade
