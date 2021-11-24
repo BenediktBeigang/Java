@@ -1,0 +1,14 @@
+Name:
+Die erste Herausforderung
+Beschreibung:
+Im ersten Level kannst du die Grundlagen der Spielmechaniken lernen und beginnen erste Tricks zu entwickeln, um die Gegner zu besigen.
+Schwierigkeit:
+1
+Schnelligkeit:
+6
+Level-Bitmap Name:
+map48px.bmp
+Highscore:
+8380
+Rekordhalter:
+Bene

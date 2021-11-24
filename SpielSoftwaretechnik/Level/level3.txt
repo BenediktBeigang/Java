@@ -1,0 +1,14 @@
+Name:
+Der Weinkeller
+Beschreibung:
+Deine Gegner haben dich bis in den Weinkeller verfolgt, pass auf!
+Schwierigkeit:
+3
+Schnelligkeit:
+6
+Level-Bitmap Name:
+maplevel3.bmp
+Highscore:
+1660
+Rekordhalter:
+bene

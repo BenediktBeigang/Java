@@ -1,0 +1,16 @@
+Name:
+Bei den Groﬂeltern
+Beschreibung:
+Du hast dich bei deinen Groﬂelternverschanzt und musst den Marmeladenkeller verteidigen!
+Schwierigkeit:
+7
+Schnelligkeit:
+4
+Level-Bitmap Name:
+keller.bmp
+Highscore:
+3810
+Rekordhalter:
+Garlef
+BG-Textur
+Background-Teppich.png

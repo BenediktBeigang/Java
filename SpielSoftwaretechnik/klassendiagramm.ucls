@@ -1,0 +1,734 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<class-diagram version="1.2.4" icons="true" automaticImage="PNG" always-add-relationships="false" generalizations="true" 
+  realizations="true" associations="true" dependencies="false" nesting-relationships="true" router="FAN">  
+  <class id="1" language="java" name="GlobaleKlassen.Level" project="mib-g-spaceinvaders-master" 
+    file="/mib-g-spaceinvaders-master/src/GlobaleKlassen/Level.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="585" width="354" x="1183" y="2151"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="2" language="java" name="GlobaleKlassen.TesteReaderWriter" project="mib-g-spaceinvaders-master" 
+    file="/mib-g-spaceinvaders-master/src/GlobaleKlassen/TesteReaderWriter.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="171" width="168" x="695" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="3" language="java" name="GlobaleKlassen.Soundboard" project="mib-g-spaceinvaders-master" 
+    file="/mib-g-spaceinvaders-master/src/GlobaleKlassen/Soundboard.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="783" width="153" x="449" y="608"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="4" language="java" name="GlobaleKlassen.State" project="mib-g-spaceinvaders-master" 
+    file="/mib-g-spaceinvaders-master/src/GlobaleKlassen/State.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="117" width="128" x="99" y="608"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="5" language="java" name="GlobaleKlassen.Soundboard.SoundRunnable" project="mib-g-spaceinvaders-master" 
+    file="/mib-g-spaceinvaders-master/src/GlobaleKlassen/Soundboard.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="99" width="113" x="373" y="2151"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <enumeration id="6" language="java" name="GlobaleKlassen.State.STATE" project="mib-g-spaceinvaders-master" 
+    file="/mib-g-spaceinvaders-master/src/GlobaleKlassen/State.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="189" width="119" x="99" y="2151"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </enumeration>  
+  <class id="7" language="java" name="GlobaleKlassen.ReaderWriter" project="mib-g-spaceinvaders-master" 
+    file="/mib-g-spaceinvaders-master/src/GlobaleKlassen/ReaderWriter.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="387" width="237" x="194" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="8" language="java" name="GlobaleKlassen.Main" project="mib-g-spaceinvaders-master" 
+    file="/mib-g-spaceinvaders-master/src/GlobaleKlassen/Main.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="99" width="113" x="41" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="9" language="java" name="GlobaleKlassen.Soundboard.MusicRunnable" project="mib-g-spaceinvaders-master" 
+    file="/mib-g-spaceinvaders-master/src/GlobaleKlassen/Soundboard.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="99" width="111" x="526" y="2151"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="10" language="java" name="GlobaleKlassen.TimerManager" project="mib-g-spaceinvaders-master" 
+    file="/mib-g-spaceinvaders-master/src/GlobaleKlassen/TimerManager.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="153" width="184" x="471" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="11" language="java" name="GlobaleKlassen.Vector2D" project="mib-g-spaceinvaders-master" 
+    file="/mib-g-spaceinvaders-master/src/GlobaleKlassen/Vector2D.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="333" width="413" x="1760" y="3365"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="12" language="java" name="GlobaleKlassen.Controller" project="mib-g-spaceinvaders-master" 
+    file="/mib-g-spaceinvaders-master/src/GlobaleKlassen/Controller.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="531" width="187" x="1298" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="13" language="java" name="gui.GegnerGUI" project="mib-g-spaceinvaders-master" 
+    file="/mib-g-spaceinvaders-master/src/gui/GegnerGUI.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="225" width="178" x="2583" y="2151"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <interface id="14" language="java" name="gui.KollisionsObjekt" project="mib-g-spaceinvaders-master" 
+    file="/mib-g-spaceinvaders-master/src/gui/KollisionsObjekt.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="153" width="131" x="2679" y="3136"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <class id="15" language="java" name="gui.Steuerung" project="mib-g-spaceinvaders-master" 
+    file="/mib-g-spaceinvaders-master/src/gui/Steuerung.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="693" width="239" x="3547" y="2151"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="16" language="java" name="gui.ItemGUI" project="mib-g-spaceinvaders-master" 
+    file="/mib-g-spaceinvaders-master/src/gui/ItemGUI.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="189" width="178" x="2989" y="2151"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="17" language="java" name="gui.SchussGUI" project="mib-g-spaceinvaders-master" 
+    file="/mib-g-spaceinvaders-master/src/gui/SchussGUI.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="135" width="181" x="2362" y="2151"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="18" language="java" name="gui.TodGUI" project="mib-g-spaceinvaders-master" 
+    file="/mib-g-spaceinvaders-master/src/gui/TodGUI.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="225" width="178" x="642" y="608"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="19" language="java" name="gui.MenuGUI" project="mib-g-spaceinvaders-master" 
+    file="/mib-g-spaceinvaders-master/src/gui/MenuGUI.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="531" width="178" x="1078" y="608"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="20" language="java" name="gui.Anzeige" project="mib-g-spaceinvaders-master" 
+    file="/mib-g-spaceinvaders-master/src/gui/Anzeige.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="117" width="144" x="3826" y="2151"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="21" language="java" name="gui.PauseGUI" project="mib-g-spaceinvaders-master" 
+    file="/mib-g-spaceinvaders-master/src/gui/PauseGUI.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="279" width="178" x="860" y="608"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="22" language="java" name="gui.CinematicGUI" project="mib-g-spaceinvaders-master" 
+    file="/mib-g-spaceinvaders-master/src/gui/CinematicGUI.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="225" width="142" x="267" y="608"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="23" language="java" name="gui.Frame" project="mib-g-spaceinvaders-master" 
+    file="/mib-g-spaceinvaders-master/src/gui/Frame.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="1503" width="324" x="2909" y="608"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="24" language="java" name="gui.GUIObjektHilfsfunktionen" project="mib-g-spaceinvaders-master" 
+    file="/mib-g-spaceinvaders-master/src/gui/GUIObjektHilfsfunktionen.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="153" width="355" x="903" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="25" language="java" name="gui.Kollision" project="mib-g-spaceinvaders-master" 
+    file="/mib-g-spaceinvaders-master/src/gui/Kollision.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="243" width="263" x="4010" y="2151"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="26" language="java" name="gui.SpielerGUI" project="mib-g-spaceinvaders-master" 
+    file="/mib-g-spaceinvaders-master/src/gui/SpielerGUI.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="243" width="186" x="2136" y="2151"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="27" language="java" name="gui.AnimationGUI" project="mib-g-spaceinvaders-master" 
+    file="/mib-g-spaceinvaders-master/src/gui/AnimationGUI.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="333" width="300" x="3207" y="2151"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="28" language="java" name="gui.HighscoreGUI" project="mib-g-spaceinvaders-master" 
+    file="/mib-g-spaceinvaders-master/src/gui/HighscoreGUI.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="261" width="178" x="1601" y="608"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="29" language="java" name="gui.WandGUI" project="mib-g-spaceinvaders-master" 
+    file="/mib-g-spaceinvaders-master/src/gui/WandGUI.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="225" width="148" x="2801" y="2151"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="30" language="java" name="spieldaten.Charakter" project="mib-g-spaceinvaders-master" 
+    file="/mib-g-spaceinvaders-master/src/spieldaten/Charakter.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="189" width="162" x="1577" y="2151"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="31" language="java" name="spieldaten.Spielobjekt" project="mib-g-spaceinvaders-master" 
+    file="/mib-g-spaceinvaders-master/src/spieldaten/Spielobjekt.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="423" width="208" x="2075" y="608"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="32" language="java" name="spieldaten.Item" project="mib-g-spaceinvaders-master" 
+    file="/mib-g-spaceinvaders-master/src/spieldaten/Item.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="135" width="151" x="2387" y="3136"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="33" language="java" name="spieldaten.Spieler" project="mib-g-spaceinvaders-master" 
+    file="/mib-g-spaceinvaders-master/src/spieldaten/Spieler.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="135" width="169" x="1551" y="3136"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="34" language="java" name="spieldaten.Schuss" project="mib-g-spaceinvaders-master" 
+    file="/mib-g-spaceinvaders-master/src/spieldaten/Schuss.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="117" width="196" x="1760" y="3136"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="35" language="java" name="spieldaten.Wand" project="mib-g-spaceinvaders-master" 
+    file="/mib-g-spaceinvaders-master/src/spieldaten/Wand.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="81" width="129" x="2218" y="3136"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="36" language="java" name="spieldaten.Animationen" project="mib-g-spaceinvaders-master" 
+    file="/mib-g-spaceinvaders-master/src/spieldaten/Animationen.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="297" width="223" x="1338" y="608"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="37" language="java" name="spieldaten.Spiel" project="mib-g-spaceinvaders-master" 
+    file="/mib-g-spaceinvaders-master/src/spieldaten/Spiel.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="945" width="254" x="1800" y="2151"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="38" language="java" name="spieldaten.Gegner" project="mib-g-spaceinvaders-master" 
+    file="/mib-g-spaceinvaders-master/src/spieldaten/Gegner.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="189" width="182" x="1996" y="3136"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <nesting id="39">    
+    <end type="SOURCE" refId="3"/>    
+    <end type="TARGET" refId="5"/>  
+  </nesting>  
+  <association id="40">    
+    <end type="SOURCE" refId="27" navigable="false">      
+      <attribute id="41" name="obj"/>      
+      <multiplicity id="42" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="14" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="43">    
+    <end type="SOURCE" refId="23" navigable="false">      
+      <attribute id="44" name="lebensAnzeige"/>      
+      <multiplicity id="45" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="20" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="46">    
+    <bendpoint x="1286" y="608"/>    
+    <end type="SOURCE" refId="12" navigable="false">      
+      <attribute id="47" name="alleLevel"/>      
+      <multiplicity id="48" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="1" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="49">    
+    <end type="SOURCE" refId="23" navigable="false">      
+      <attribute id="50" name="kollision"/>      
+      <multiplicity id="51" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="25" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="52">    
+    <end type="SOURCE" refId="37" navigable="false">      
+      <attribute id="53" name="wandDatenListe"/>      
+      <multiplicity id="54" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="35" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="55">    
+    <end type="SOURCE" refId="12" navigable="false">      
+      <attribute id="56" name="status"/>      
+      <multiplicity id="57" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="4" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="58">    
+    <end type="SOURCE" refId="38"/>    
+    <end type="TARGET" refId="30"/>  
+  </generalization>  
+  <association id="59">    
+    <bendpoint x="1809" y="608"/>    
+    <end type="SOURCE" refId="12" navigable="false">      
+      <attribute id="60" name="spieldaten"/>      
+      <multiplicity id="61" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="37" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="62">    
+    <bendpoint x="2105" y="2151"/>    
+    <end type="SOURCE" refId="32"/>    
+    <end type="TARGET" refId="31"/>  
+  </generalization>  
+  <nesting id="63">    
+    <end type="SOURCE" refId="4"/>    
+    <end type="TARGET" refId="6"/>  
+  </nesting>  
+  <association id="64">    
+    <end type="SOURCE" refId="17" navigable="false">      
+      <attribute id="65" name="schussDaten"/>      
+      <multiplicity id="66" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="34" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="67">    
+    <end type="SOURCE" refId="12" navigable="false">      
+      <attribute id="68" name="soundboard"/>      
+      <multiplicity id="69" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="3" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="70">    
+    <end type="SOURCE" refId="30"/>    
+    <end type="TARGET" refId="31"/>  
+  </generalization>  
+  <association id="71">    
+    <end type="SOURCE" refId="37" navigable="false">      
+      <attribute id="72" name="schussDatenListe"/>      
+      <multiplicity id="73" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="34" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="74">    
+    <end type="SOURCE" refId="12" navigable="false">      
+      <attribute id="75" name="pause"/>      
+      <multiplicity id="76" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="21" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="77">    
+    <end type="SOURCE" refId="12" navigable="false">      
+      <attribute id="78" name="cinematic"/>      
+      <multiplicity id="79" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="22" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="80">    
+    <end type="SOURCE" refId="23" navigable="false">      
+      <attribute id="81" name="cooldownAnzeige"/>      
+      <multiplicity id="82" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="20" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="83">    
+    <end type="SOURCE" refId="23" navigable="false">      
+      <attribute id="84" name="steuerung"/>      
+      <multiplicity id="85" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="15" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="86">    
+    <end type="SOURCE" refId="23" navigable="false">      
+      <attribute id="87" name="zuLoeschendeSchuesse"/>      
+      <multiplicity id="88" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="17" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <realization id="89">    
+    <end type="SOURCE" refId="13"/>    
+    <end type="TARGET" refId="14"/>  
+  </realization>  
+  <generalization id="90">    
+    <bendpoint x="2084" y="2151"/>    
+    <end type="SOURCE" refId="35"/>    
+    <end type="TARGET" refId="31"/>  
+  </generalization>  
+  <realization id="91">    
+    <end type="SOURCE" refId="17"/>    
+    <end type="TARGET" refId="14"/>  
+  </realization>  
+  <realization id="92">    
+    <end type="SOURCE" refId="16"/>    
+    <end type="TARGET" refId="14"/>  
+  </realization>  
+  <association id="93">    
+    <end type="SOURCE" refId="12" navigable="false">      
+      <attribute id="94" name="highscore"/>      
+      <multiplicity id="95" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="28" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="96">    
+    <end type="SOURCE" refId="23" navigable="false">      
+      <attribute id="97" name="gegnerGUIListe"/>      
+      <multiplicity id="98" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="13" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="99">    
+    <end type="SOURCE" refId="33"/>    
+    <end type="TARGET" refId="30"/>  
+  </generalization>  
+  <generalization id="100">    
+    <bendpoint x="1769" y="2151"/>    
+    <end type="SOURCE" refId="34"/>    
+    <end type="TARGET" refId="31"/>  
+  </generalization>  
+  <nesting id="101">    
+    <end type="SOURCE" refId="3"/>    
+    <end type="TARGET" refId="9"/>  
+  </nesting>  
+  <association id="102">    
+    <end type="SOURCE" refId="12" navigable="false">      
+      <attribute id="103" name="spielframe"/>      
+      <multiplicity id="104" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="23" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="105">    
+    <end type="SOURCE" refId="23" navigable="false">      
+      <attribute id="106" name="wandGUIListe"/>      
+      <multiplicity id="107" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="29" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="108">    
+    <end type="SOURCE" refId="12" navigable="false">      
+      <attribute id="109" name="animationen"/>      
+      <multiplicity id="110" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="36" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="111">    
+    <end type="SOURCE" refId="26" navigable="false">      
+      <attribute id="112" name="spielerDaten"/>      
+      <multiplicity id="113" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="33" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="114">    
+    <end type="SOURCE" refId="37" navigable="false">      
+      <attribute id="115" name="gegnerDatenListe"/>      
+      <multiplicity id="116" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="38" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="117">    
+    <end type="SOURCE" refId="37" navigable="false">      
+      <attribute id="118" name="spieler"/>      
+      <multiplicity id="119" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="33" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="120">    
+    <end type="SOURCE" refId="23" navigable="false">      
+      <attribute id="121" name="zuLoeschendeAnimationen"/>      
+      <multiplicity id="122" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="27" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="123">    
+    <end type="SOURCE" refId="4" navigable="false">      
+      <attribute id="124" name="state"/>      
+      <multiplicity id="125" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="6" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="126">    
+    <end type="SOURCE" refId="34" navigable="false">      
+      <attribute id="127" name="schussRichtung"/>      
+      <multiplicity id="128" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="11" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="129">    
+    <end type="SOURCE" refId="23" navigable="false">      
+      <attribute id="130" name="schussGUIListe"/>      
+      <multiplicity id="131" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="17" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="132">    
+    <end type="SOURCE" refId="23" navigable="false">      
+      <attribute id="133" name="zuLoeschendeGegner"/>      
+      <multiplicity id="134" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="13" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="135">    
+    <end type="SOURCE" refId="29" navigable="false">      
+      <attribute id="136" name="wandDaten"/>      
+      <multiplicity id="137" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="35" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="138">    
+    <bendpoint x="1307" y="608"/>    
+    <end type="SOURCE" refId="12" navigable="false">      
+      <attribute id="139" name="geladenesLevel"/>      
+      <multiplicity id="140" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="1" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <realization id="141">    
+    <end type="SOURCE" refId="29"/>    
+    <end type="TARGET" refId="14"/>  
+  </realization>  
+  <association id="142">    
+    <end type="SOURCE" refId="19" navigable="false">      
+      <attribute id="143" name="currentLevel"/>      
+      <multiplicity id="144" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="1" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="145">    
+    <end type="SOURCE" refId="19" navigable="false">      
+      <attribute id="146" name="alleLevel"/>      
+      <multiplicity id="147" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="1" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="148">    
+    <end type="SOURCE" refId="23" navigable="false">      
+      <attribute id="149" name="animationenListe"/>      
+      <multiplicity id="150" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="27" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="151">    
+    <end type="SOURCE" refId="13" navigable="false">      
+      <attribute id="152" name="gegnerDaten"/>      
+      <multiplicity id="153" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="38" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="154">    
+    <end type="SOURCE" refId="23" navigable="false">      
+      <attribute id="155" name="spielerGUI"/>      
+      <multiplicity id="156" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="26" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="157">    
+    <end type="SOURCE" refId="12" navigable="false">      
+      <attribute id="158" name="menu"/>      
+      <multiplicity id="159" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="19" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="160">    
+    <end type="SOURCE" refId="16" navigable="false">      
+      <attribute id="161" name="itemDaten"/>      
+      <multiplicity id="162" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="32" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="163">    
+    <end type="SOURCE" refId="37" navigable="false">      
+      <attribute id="164" name="aktuellesItem"/>      
+      <multiplicity id="165" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="32" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="166">    
+    <end type="SOURCE" refId="12" navigable="false">      
+      <attribute id="167" name="tot"/>      
+      <multiplicity id="168" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="18" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <realization id="169">    
+    <end type="SOURCE" refId="26"/>    
+    <end type="TARGET" refId="14"/>  
+  </realization>  
+  <association id="170">    
+    <end type="SOURCE" refId="23" navigable="false">      
+      <attribute id="171" name="item"/>      
+      <multiplicity id="172" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="16" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <classifier-display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+    sort-features="false" accessors="true" visibility="true">    
+    <attributes public="true" package="true" protected="true" private="true" static="true"/>    
+    <operations public="true" package="true" protected="true" private="true" static="true"/>  
+  </classifier-display>  
+  <association-display labels="true" multiplicity="true"/>
+</class-diagram>
